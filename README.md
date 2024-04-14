@@ -1,2 +1,2 @@
-dinh doan vu
-ta trieu phu
+#dinh doan vu
+#ta trieu phu
